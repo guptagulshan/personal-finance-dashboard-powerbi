@@ -53,7 +53,7 @@ The dashboard tracks income, expenses, savings, investments, and spending patter
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+(dashboard_screenshot.png)
 
 ## Author
 
