@@ -1,4 +1,3 @@
-# personal-finance-dashboard-powerbi
 # Personal Finance Dashboard | Power BI
 
 ## Overview
